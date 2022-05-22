@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+  background-color: rgb(210, 238, 238);
+  margin: 0 auto;
+  padding: 0 auto;
+}
+h1 {
+  text-align: center;
+  font-size: xx-large;
+}
+p {
+  font-size: x-large;
+  margin: 1rem;
+  padding: 1rem;
+}
+hr {
+  height: 1.5rem;
+  background-color: rgb(113, 163, 163);
+  margin-top: 2rem;
+}
+table,
+th,
+td {
+  font-size: x-large;
+  border: 1px solid black;
+  text-align: center;
+  padding: 0.5rem;
+}
+label {
+  font-size: xx-large;
+  margin-left: 50rem;
+}
+
+input {
+  margin-right: 15rem;
+  height: 2rem;
+  width: 10%;
+}
+input[type="submit"] {
+  text-align: center;
+  height: 3rem;
+  margin-left: 8rem;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+input,
+label {
+  text-align: center;
+}
